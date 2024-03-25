@@ -4,7 +4,7 @@ import Navbar from '../components/Navbar';
 const Home = () => {
     return (
         <div>
-            <div className='h-16'>
+            <div >
             {/* <Navbar></Navbar> */}
             </div>
             <h1>Home Page</h1>
